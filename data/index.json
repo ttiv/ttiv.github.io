@@ -1,0 +1,63 @@
+{
+	"swiper": [
+		{
+			"name": "捡漏清单",
+			"image": "https://img-haodanku-com.cdn.fudaiapp.com/0_1758096314_601503",
+			"url": "/xlsx",
+			"tkurl": "",
+			"style": "#b2f1ac",
+			"time": "2026-06-30 23:59:59"
+		},
+		{
+			"name": "榜单",
+			"image": "/images/ranking.png",
+			"url": "/ranking",
+			"tkurl": "",
+			"style": "#f86220",
+			"time": "2099-01-01 23:59:59"
+		},
+		{
+			"name": "热销",
+			"image": "/images/hotSell.png",
+			"url": "/hot",
+			"tkurl": "",
+			"style": "#ff8994",
+			"time": "2099-01-01 23:59:59"
+		},
+		{
+			"name": "特惠",
+			"image": "/images/discount.jpg",
+			"url": "/discount",
+			"tkurl": "",
+			"style": "#fdca03",
+			"time": "2099-01-01 23:59:59"
+		}
+	],
+	"main": [
+		{
+			"name": "9块9包邮",
+			"icon": "/images/main/nine.png",
+			"url": "/nine"
+		},
+		{
+			"name": "全网热卖榜",
+			"icon": "/images/main/ranking.gif",
+			"url": "/ranking"
+		},
+		{
+			"name": "捡漏清单",
+			"icon": "/images/main/xlsx.gif",
+			"url": "/xlsx"
+		},
+		{
+			"name": "天猫超市",
+			"icon": "/images/main/chaoshi.gif",
+			"url": "/chaoshi"
+		},
+		{
+			"name": "进口好物",
+			"icon": "/images/main/tmgj.png",
+			"url": "/guoji"
+		}
+	]
+}

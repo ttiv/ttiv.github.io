@@ -1,0 +1,1 @@
+import{_ as o,v as n,K as a,x as s}from"./index-CIlxVa1Z.js";const t="/images/save_money_1.png",_="/images/save_money_2.png",c={},r={class:"save-money"};function m(i,e){return a(),n("div",r,[...e[0]||(e[0]=[s("img",{src:t},null,-1),s("img",{src:_},null,-1)])])}const p=o(c,[["render",m],["__scopeId","data-v-a6e5442b"]]);export{p as default};
